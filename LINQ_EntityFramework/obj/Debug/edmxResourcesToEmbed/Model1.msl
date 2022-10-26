@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntityFrameworkLINQ_SinavOgrenciModelStoreContainer" CdmEntityContainer="EntityFrameworkLINQ_SinavOgrenciEntities">
+    <EntitySetMapping Name="tbl_dersler">
+      <EntityTypeMapping TypeName="EntityFrameworkLINQ_SinavOgrenciModel.tbl_dersler">
+        <MappingFragment StoreEntitySet="tbl_dersler">
+          <ScalarProperty Name="DERSID" ColumnName="DERSID" />
+          <ScalarProperty Name="DERSAD" ColumnName="DERSAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_notlar">
+      <EntityTypeMapping TypeName="EntityFrameworkLINQ_SinavOgrenciModel.tbl_notlar">
+        <MappingFragment StoreEntitySet="tbl_notlar">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="OGR" ColumnName="OGR" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_ogrenci">
+      <EntityTypeMapping TypeName="EntityFrameworkLINQ_SinavOgrenciModel.tbl_ogrenci">
+        <MappingFragment StoreEntitySet="tbl_ogrenci">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OGRAD" ColumnName="OGRAD" />
+          <ScalarProperty Name="OGRSOYAD" ColumnName="OGRSOYAD" />
+          <ScalarProperty Name="FOTOGRAF" ColumnName="FOTOGRAF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_kulupler">
+      <EntityTypeMapping TypeName="EntityFrameworkLINQ_SinavOgrenciModel.tbl_kulupler">
+        <MappingFragment StoreEntitySet="tbl_kulupler">
+          <ScalarProperty Name="KULUPAD" ColumnName="KULUPAD" />
+          <ScalarProperty Name="KULUPID" ColumnName="KULUPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="not_listesi" FunctionName="EntityFrameworkLINQ_SinavOgrenciModel.Store.not_listesi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EntityFrameworkLINQ_SinavOgrenciModel.not_listesi_Result">
+          <ScalarProperty Name="Not_ID" ColumnName="Not ID" />
+          <ScalarProperty Name="Ad_Soyad" ColumnName="Ad Soyad" />
+          <ScalarProperty Name="Ders" ColumnName="Ders" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

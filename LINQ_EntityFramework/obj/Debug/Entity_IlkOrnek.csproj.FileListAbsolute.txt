@@ -1,0 +1,15 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\Entity_IlkOrnek.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\Entity_IlkOrnek.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\Entity_IlkOrnek.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\EntityFramework.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\EntityFramework.xml
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.csproj.CopyComplete
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\LINQ_Entity_Framework\Entity_IlkOrnek\obj\Debug\Entity_IlkOrnek.pdb
